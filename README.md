@@ -2,7 +2,7 @@
 
 # Tarun Deshmukh
 
-DevOps & Cloud learner | Install tester @ Dream Server (Light Heart Labs)
+DevOps & Cloud learner 
 Building toward AWS certification and remote DevOps roles.
 
 ## Currently working with
