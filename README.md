@@ -10,4 +10,4 @@ Docker · Docker Compose · Git · PowerShell · Linux
 ## Currently learning
 Scripting & Kubernetes
 
-📍 Madhya Pradesh, India
+📍 Bengaluru, India
